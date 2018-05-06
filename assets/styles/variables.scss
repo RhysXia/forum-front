@@ -1,0 +1,14 @@
+$--color-primary: #409eff;
+$--color-info: #909399;
+$--color-success: #67c23a;
+$--color-warning: #e6a23c;
+$--color-error: #f56c6c;
+$--color-border: #dddee1;
+$--color-text: #495060;
+$--color-text--secondary: lighten($--color-text, 15%);
+$--color-background: #eee;
+$--color-link: $--color-primary;
+$--transition-time: .25s;
+
+$--header-height: 50px;
+$--header-width: 85em;
